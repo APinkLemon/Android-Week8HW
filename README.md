@@ -12,9 +12,8 @@
 <center class="half">
     <img src="./img/img0.png" width="300"/>
 </center>
+
 #### 查询页面
-
-
 <center class="half">
     <img src="./img/img1.png" width="300"/>
 </center>
